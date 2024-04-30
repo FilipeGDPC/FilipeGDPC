@@ -1,6 +1,6 @@
 ### Hi, I'm Filipe Gama👋🏻
 
-
+#connect with me!
 [![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://filipegdpc.github.io/Portifolio/)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/filipegdpc/)
