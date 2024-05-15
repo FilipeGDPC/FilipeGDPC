@@ -7,7 +7,9 @@
 )](https://www.linkedin.com/in/filipegdpc/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filipegdev/)
 
-![Filipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeGDPC&show_icons=true&theme=onedark)
+<a href="#">
+  <img height="180" src="https://streak-stats.demolab.com/?user=leonardo-cordeiro" />
+</a>
 
 
 ## Technologies that I use in a daily basis:
