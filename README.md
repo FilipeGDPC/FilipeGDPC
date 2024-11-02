@@ -21,7 +21,6 @@
     <a href="https://vuejs.org/guide/introduction.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/> </a>
     <a href="https://quasar.dev/start" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" width="40" height="40"/> </a>
    <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://nodejs.org/api/documentation.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> </a> 
 </div><br/>
 
 Passionate about technology, education, and changing lives through programming.
